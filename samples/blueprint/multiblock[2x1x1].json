@@ -1,0 +1,41 @@
+{
+    "bodies": [
+        {
+            "childs": [
+                {
+                    "bounds": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "color": "eeeeee",
+                    "pos": {
+                        "x": 2,
+                        "y": 3,
+                        "z": 2
+                    },
+                    "shapeId": "a6c6ce30-dd47-4587-b475-085d55c6a3b4",
+                    "xaxis": 1,
+                    "zaxis": 3
+                },
+                {
+                    "bounds": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "color": "222222",
+                    "pos": {
+                        "x": 3,
+                        "y": 3,
+                        "z": 2
+                    },
+                    "shapeId": "a6c6ce30-dd47-4587-b475-085d55c6a3b4",
+                    "xaxis": 1,
+                    "zaxis": 3
+                }
+            ]
+        }
+    ],
+    "version": 1
+}

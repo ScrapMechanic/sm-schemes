@@ -1,0 +1,144 @@
+{
+    "bodies": [
+        {
+            "childs": [
+                {
+                    "color": "df7f00",
+                    "controller": {
+                        "controllers": null,
+                        "id": 10,
+                        "joints": [
+                            {
+                                "endAngle": 990,
+                                "frames": [
+                                    {
+                                        "targetAngle": -105
+                                    },
+                                    {
+                                        "targetAngle": 30
+                                    },
+                                    {
+                                        "targetAngle": 75
+                                    },
+                                    {
+                                        "targetAngle": 135
+                                    },
+                                    {
+                                        "targetAngle": 210
+                                    },
+                                    {
+                                        "targetAngle": 255
+                                    },
+                                    {
+                                        "targetAngle": 300
+                                    },
+                                    {
+                                        "targetAngle": 0
+                                    },
+                                    {
+                                        "targetAngle": 0
+                                    },
+                                    {
+                                        "targetAngle": 0
+                                    },
+                                    {
+                                        "targetAngle": 90
+                                    }
+                                ],
+                                "id": 3,
+                                "index": 0,
+                                "reverse": false,
+                                "startAngle": -105
+                            }
+                        ],
+                        "playMode": 2,
+                        "timePerFrame": 3.0
+                    },
+                    "joints": [
+                        {
+                            "id": 3
+                        }
+                    ],
+                    "pos": {
+                        "x": 3,
+                        "y": 3,
+                        "z": 2
+                    },
+                    "shapeId": "12862001-666c-4bdd-8326-a1f43610d28b",
+                    "xaxis": -1,
+                    "zaxis": 2
+                },
+                {
+                    "color": "df7f00",
+                    "controller": {
+                        "active": false,
+                        "controllers": [
+                            {
+                                "id": 10
+                            }
+                        ],
+                        "id": 12,
+                        "joints": null
+                    },
+                    "pos": {
+                        "x": 2,
+                        "y": 3,
+                        "z": 2
+                    },
+                    "shapeId": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986",
+                    "xaxis": 3,
+                    "zaxis": 1
+                }
+            ]
+        },
+        {
+            "childs": [
+                {
+                    "bounds": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "color": "8d8f89",
+                    "joints": [
+                        {
+                            "id": 3
+                        }
+                    ],
+                    "pos": {
+                        "x": 1,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "shapeId": "a6c6ce30-dd47-4587-b475-085d55c6a3b4",
+                    "xaxis": 1,
+                    "zaxis": 3
+                }
+            ]
+        }
+    ],
+    "joints": [
+        {
+            "childA": 0,
+            "childB": 2,
+            "color": "df7f00",
+            "id": 3,
+            "posA": {
+                "x": 1,
+                "y": 2,
+                "z": 2
+            },
+            "posB": {
+                "x": 1,
+                "y": 2,
+                "z": 2
+            },
+            "shapeId": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6",
+            "xaxisA": 1,
+            "xaxisB": 1,
+            "zaxisA": -2,
+            "zaxisB": -2
+        }
+    ],
+    "version": 1
+}

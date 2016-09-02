@@ -1,0 +1,78 @@
+{
+    "bodies": [
+        {
+            "childs": [
+                {
+                    "bounds": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "color": "8d8f89",
+                    "joints": [
+                        {
+                            "id": 1
+                        }
+                    ],
+                    "pos": {
+                        "x": 0,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "shapeId": "a6c6ce30-dd47-4587-b475-085d55c6a3b4",
+                    "xaxis": 1,
+                    "zaxis": 3
+                }
+            ]
+        },
+        {
+            "childs": [
+                {
+                    "bounds": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "color": "8d8f89",
+                    "joints": [
+                        {
+                            "id": 1
+                        }
+                    ],
+                    "pos": {
+                        "x": -1,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "shapeId": "a6c6ce30-dd47-4587-b475-085d55c6a3b4",
+                    "xaxis": 1,
+                    "zaxis": 3
+                }
+            ]
+        }
+    ],
+    "joints": [
+        {
+            "childA": 0,
+            "childB": 1,
+            "color": "df7f00",
+            "id": 1,
+            "posA": {
+                "x": -1,
+                "y": 2,
+                "z": 2
+            },
+            "posB": {
+                "x": -1,
+                "y": 2,
+                "z": 2
+            },
+            "shapeId": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6",
+            "xaxisA": 2,
+            "xaxisB": 2,
+            "zaxisA": -1,
+            "zaxisB": -1
+        }
+    ],
+    "version": 1
+}

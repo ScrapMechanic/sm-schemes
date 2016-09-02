@@ -1,0 +1,25 @@
+{
+    "bodies": [
+        {
+            "childs": [
+                {
+                    "bounds": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "color": "8d8f89",
+                    "pos": {
+                        "x": 0,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "shapeId": "a6c6ce30-dd47-4587-b475-085d55c6a3b4",
+                    "xaxis": 1,
+                    "zaxis": 3
+                }
+            ]
+        }
+    ],
+    "version": 1
+}
